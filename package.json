@@ -1,0 +1,26 @@
+{
+  "name": "poster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dustjs-linkedin": "^2.7.2",
+    "express": "^4.13.3",
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
+    "mysql": "^2.9.0",
+    "object-assign": "^4.0.1",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

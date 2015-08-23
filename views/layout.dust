@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Layout</title>
+  </head>
+  <body>
+    <div id="wrap">
+      {reactOutput|s}
+    </div>
+    <script src="bundle.js"></script>
+  </body>
+</html>
